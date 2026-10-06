@@ -51,6 +51,6 @@ This project was created for:
 
 ## 👨‍💻 Author
 
-**Waqas**
+**Muhammed Waqas Kayani**
 
 Created as part of my IT Varsity Full Stack Development course.
