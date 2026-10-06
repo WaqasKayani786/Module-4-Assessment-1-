@@ -16,12 +16,11 @@ The website was developed using the web development concepts covered in the IT V
 * 🏞️ Zoo facilities and attractions
 * 🔗 Navigation between different sections
 * 🎨 Custom styling and images
-* 📱 Layout designed for different screen sizes
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Structure and content
-* **CSS3** – Styling, layout and design
+* **HTML** – Structure and content
+* **CSS** – Styling, layout and design
 * **GitHub Pages** – Website hosting
 
 ## 📁 Project Structure
